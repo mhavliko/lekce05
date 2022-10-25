@@ -1,0 +1,33 @@
+Ahoj Karkulko.
+
+Zlý vlk ti snědl babičku. Záchránit ji můžeš
+jedině tak, že nakóduješ spoustu layoutů pomocí
+flexboxu!
+
+V každé složce máš zadání úkolu ve formě obrázku
+a připravený "prázdný" HTML a CSS soubor.
+
+Musíš si sama napsat HTML tak, abys ho pak uměla
+nastylovat v CSS přesně podle obrázku.
+
+Na velikostech sloupců nijak zvlášť nezáleží, ale
+ber to tak, že ty "úzké" sloupce na obrázcích
+zabírají vždy 20 % šířky obrazovky (nebo 20vw).
+Jsou-li vodorovně (hlavička, patička), mají výšku
+20 % okna prohlížeče (neboli 20vh).
+
+Pro hlavní bloky celé stránky použij sémantické značky
+<header>, <footer>, <article>, <nav>, <aside>
+
+Občas je budeš muset zabalit do dalšího <div>u,
+protože některé layouty používají do sebe vnořené
+flexboxy.
+
+V prvním příkladu máš HTML připravené, abys měla
+představu, co po tobě chci. Samotný CSS kód je
+většinou velmi krátký.
+
+Tvůj úkol je hlavně MYSLET!
+
+Hodně štěstí,
+Tvůj zlý Vlk!
