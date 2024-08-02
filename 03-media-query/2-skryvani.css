@@ -1,0 +1,9 @@
+.banner {
+  display: none;
+}
+
+@media (min-width: 600px) {
+  .banner {
+    display: block;
+  }
+}

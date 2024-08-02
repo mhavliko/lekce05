@@ -1,0 +1,23 @@
+.barva {
+  background-color: chocolate;
+}
+
+@media (max-width: 500px) {
+  .barva {
+    background-color: red;
+  }
+}
+
+@media (min-width: 500px) and (max-width:800px) {
+  .barva {
+    background-color: blue;
+  }
+  h1 {
+    font-size: 50px;
+  }
+}
+
+.baner {
+  display: none;
+}
+

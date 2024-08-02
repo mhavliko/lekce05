@@ -4,3 +4,14 @@ aby na obrazovce širší než 600px byly všechny 3 obdélníky vedle sebe.
 
 Go, girl!
 */
+
+@media (min-width: 600px) {
+  .kontejner {
+    display: flex;
+  }
+
+  .obdelnik {
+    flex: 1 1 33.33333%;
+  }
+
+}
